@@ -50,4 +50,4 @@ For questions, ideas, or feedback, reach out to us on:
 
 ---
 
-> “Fail fast, learn faster.” — The MZ Labs Philosophy
+> “Build to learn, learn to build.” — The MZ Labs Philosophy
